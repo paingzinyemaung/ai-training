@@ -1,0 +1,7 @@
+# Python venv
+.venv/
+venv/
+
+# Gradio temp files
+.gradio/
+__pycache__/
