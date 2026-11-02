@@ -17,9 +17,9 @@ demo = gr.Interface(
             placeholder = "Enter your name..."
         ),
         gr.Number(label = "Study Hours"),
-        gr.Slider(label = "Attendance Percentage")
+        gr.Number(label = "Attendance Percentage")
     ],
-    outputs = gr.Markdown(label = "Summary Output"),
+    outputs = gr.Textbox(label = "Summary Output"),
     title = "Student Record"
 )
 
