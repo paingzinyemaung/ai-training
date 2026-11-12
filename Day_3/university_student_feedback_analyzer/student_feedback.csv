@@ -1,0 +1,73 @@
+feedback_id,feedback_text,sentiment,category
+F001,The lectures are clear and the lecturer explains every topic well.,Positive,Teaching
+F002,The teacher answers our questions patiently and clearly.,Positive,Teaching
+F003,I enjoy the teaching methods because they make difficult topics easy.,Positive,Teaching
+F004,The lecturer gives useful examples during every class.,Positive,Teaching
+F005,The lessons are well organized and easy to follow.,Positive,Teaching
+F006,The teacher encourages students to participate in discussions.,Positive,Teaching
+F007,The laboratory computers work properly and are fast.,Positive,Laboratory
+F008,The lab sessions provide good practical experience.,Positive,Laboratory
+F009,The laboratory has enough equipment for all students.,Positive,Laboratory
+F010,The software in the computer lab is useful and up to date.,Positive,Laboratory
+F011,The laboratory assistants are helpful when we need support.,Positive,Laboratory
+F012,The practical exercises help me understand the lessons.,Positive,Laboratory
+F013,The classrooms are clean and comfortable.,Positive,Facilities
+F014,The campus Wi-Fi is reliable in most study areas.,Positive,Facilities
+F015,The library has a quiet environment for studying.,Positive,Facilities
+F016,The classrooms have good lighting and enough space.,Positive,Facilities
+F017,The campus facilities make learning more comfortable.,Positive,Facilities
+F018,The library provides useful books and study resources.,Positive,Facilities
+F019,The registration process was quick and simple.,Positive,Administration
+F020,The administrative staff are friendly and helpful.,Positive,Administration
+F021,I received my student documents without any delay.,Positive,Administration
+F022,The online student service is easy to use.,Positive,Administration
+F023,The office answered my questions clearly.,Positive,Administration
+F024,The timetable information was shared on time.,Positive,Administration
+F025,The lectures are confusing and the explanations are too fast.,Negative,Teaching
+F026,The teacher does not explain difficult topics clearly.,Negative,Teaching
+F027,The teaching methods are boring and difficult to understand.,Negative,Teaching
+F028,There is not enough time to ask questions during class.,Negative,Teaching
+F029,The lecturer often starts class late and skips important topics.,Negative,Teaching
+F030,The lessons are poorly organized and hard to follow.,Negative,Teaching
+F031,Many laboratory computers are broken and very slow.,Negative,Laboratory
+F032,The laboratory does not have enough equipment for students.,Negative,Laboratory
+F033,The computers frequently stop working during practical sessions.,Negative,Laboratory
+F034,The laboratory software is outdated and difficult to use.,Negative,Laboratory
+F035,There is no assistant available when we need help in the lab.,Negative,Laboratory
+F036,The lab sessions are too short to finish the exercises.,Negative,Laboratory
+F037,The classrooms are dirty and the chairs are uncomfortable.,Negative,Facilities
+F038,The campus Wi-Fi is slow and disconnects frequently.,Negative,Facilities
+F039,The library is noisy and there are not enough seats.,Negative,Facilities
+F040,The classrooms are too hot and have poor lighting.,Negative,Facilities
+F041,The campus restrooms are not clean.,Negative,Facilities
+F042,There are not enough study spaces on campus.,Negative,Facilities
+F043,The registration process is slow and confusing.,Negative,Administration
+F044,The administrative office does not respond to emails.,Negative,Administration
+F045,I have waited several days for my student documents.,Negative,Administration
+F046,The online student service keeps showing errors.,Negative,Administration
+F047,The office staff are unhelpful and provide unclear information.,Negative,Administration
+F048,The timetable was announced too late.,Negative,Administration
+F049,"The lectures are okay, but some topics need more examples.",Neutral,Teaching
+F050,The teaching pace is acceptable for most students.,Neutral,Teaching
+F051,The lecturer explains the main ideas and assigns weekly exercises.,Neutral,Teaching
+F052,The course includes both lectures and group discussions.,Neutral,Teaching
+F053,The teacher follows the course schedule.,Neutral,Teaching
+F054,The lessons cover the topics listed in the syllabus.,Neutral,Teaching
+F055,The laboratory has computers and basic development software.,Neutral,Laboratory
+F056,We use the laboratory once a week for practical work.,Neutral,Laboratory
+F057,The lab equipment is available during scheduled sessions.,Neutral,Laboratory
+F058,The laboratory has enough space for our class.,Neutral,Laboratory
+F059,The practical sessions follow the weekly lesson plan.,Neutral,Laboratory
+F060,Some computers are newer than the others in the lab.,Neutral,Laboratory
+F061,"The campus has classrooms, a library, and a cafeteria.",Neutral,Facilities
+F062,The Wi-Fi is available in the main campus buildings.,Neutral,Facilities
+F063,The library opens in the morning and closes in the evening.,Neutral,Facilities
+F064,"The classrooms have desks, chairs, and projectors.",Neutral,Facilities
+F065,There are several study areas around the campus.,Neutral,Facilities
+F066,The campus provides parking spaces for students.,Neutral,Facilities
+F067,The administration office handles student registration.,Neutral,Administration
+F068,Students can request documents from the administrative office.,Neutral,Administration
+F069,The office shares announcements through the student portal.,Neutral,Administration
+F070,The registration period is listed on the academic calendar.,Neutral,Administration
+F071,The administration office is open on weekdays.,Neutral,Administration
+F072,Students can contact the office by email or in person.,Neutral,Administration

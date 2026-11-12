@@ -49,13 +49,21 @@ model = Pipeline([
 
 model.fit(X_train, y_train)
 
+# testing accuracy
 predictions = model.predict(X_test)
 
 print(y_test)
-
 print(predictions)
 
 print("Accuracy: ", accuracy_score(y_test, predictions))
+
+# training accuracy
+predictions = model.predict(X_train)
+
+print(y_train)
+print(predictions)
+
+print('Accuracy: ', accuracy_score(y_train, predictions))
 
 print(classification_report(y_test, predictions, zero_division = 0))
 
